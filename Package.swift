@@ -13,7 +13,7 @@ import Foundation
 
 let package = Package(
     name: "au10tixbaseui-ios",
-    products: [ 
+    products: [
         .library(name: "Au10tixBaseUI", targets: ["Au10tixBaseUI"])
     ],
     targets: [
